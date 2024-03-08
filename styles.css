@@ -276,7 +276,7 @@ width: 100%;
   }
 
   /* tablet */
-  /* @media screen and (min-width: 768px) {
+  @media screen and (min-width: 768px) {
     .wrapper {
       width: 573px;
     }
@@ -372,10 +372,10 @@ width: 100%;
       width: 47.5%;
       font-size: 15px;
     }
-  } */
+  }
   
   /* Desktop  */
-      /* @media screen and (min-width: 1280px) {
+      @media screen and (min-width: 1280px) {
     .wrapper {
       width: 700px;
     }
@@ -431,4 +431,4 @@ width: 100%;
       width: 65%;
     }
   }    
-      */
+     
